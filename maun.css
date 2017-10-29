@@ -1,4 +1,11 @@
+:root{
+
+--padding-color:20px;
+
+}
+
 *{
+
   box-sizing: border-box;
 }
 html{
