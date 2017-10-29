@@ -1,9 +1,16 @@
 :root{
+<<<<<<< HEAD
   --color:red;
 --color-write:100px;
+=======
+
+--padding-color:20px;
+
+>>>>>>> master
 }
 
 *{
+
   box-sizing: border-box;
 }
 html{
